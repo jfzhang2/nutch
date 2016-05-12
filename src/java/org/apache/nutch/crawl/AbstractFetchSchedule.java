@@ -30,6 +30,7 @@ import org.apache.nutch.crawl.CrawlDatum;
  * 
  * @author Andrzej Bialecki
  */
+//测试Git
 public abstract class AbstractFetchSchedule extends Configured implements
     FetchSchedule {
   private static final Logger LOG = LoggerFactory
